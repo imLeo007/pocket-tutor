@@ -1,4 +1,4 @@
-# AI Tutor Lite v1
+# Pocket Tutor - Simple AI Chatbot
 
 A simple AI tutoring application where users can sign in, ask questions, and keep their previous conversations.
 

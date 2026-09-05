@@ -9,7 +9,7 @@ from fastapi.responses import HTMLResponse
 from routers.auth import router as auth_router
 from routers.chat import router as chat_router
 
-app = FastAPI()
+app = FastAPI(title="pocket-tutor", version="5.0.0")
 
 # templates directory
 
